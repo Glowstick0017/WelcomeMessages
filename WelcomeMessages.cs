@@ -4,7 +4,7 @@ using System;
 
 namespace Oxide.Plugins
 {
-    [Info("WelcomeMessages", "Glowstick", "1.0.0", ResourceId = 2219)]
+    [Info("WelcomeMessages", "Glowstick", "1.0.0")]
     [Description("Sends players welcome messages")]
 
     class WelcomeMessages : CovalencePlugin
